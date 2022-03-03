@@ -1,0 +1,4 @@
+Time,Device ID,Visible Light (lm),UV (UV Index),CO2 (ppm),Temperature (°C),Humidity (%),Rainfall (mm),Wind Speed (m/s),Wind Dir,Wind Dir (Degrees)
+6/25/2021 11:18:55,nchsmote1,10,0,665.7,27.5,60.5,0,0,0,N/A
+6/25/2021 11:38:13,nchsmote1,11,0,621.7,25.9,63,0,0,0,N/A
+6/25/2021 12:13:30,nchsmote1,33,0,560.5,36.2,64.5,0,0,5,110
